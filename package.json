@@ -1,0 +1,16 @@
+{
+  "name": "taller-so-monitoreo-recursos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Taller: Manipulación y Monitoreo de Recursos del SO desde el Código (Linux / Node.js)",
+  "scripts": {
+    "vigilante": "node ejercicio1-vigilante/vigilante.js",
+    "cache": "node ejercicio2-cache/cache.js",
+    "estres": "node ejercicio3-estres/estres.js",
+    "prioridad": "node ejercicio4-prioridad/comparar.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}

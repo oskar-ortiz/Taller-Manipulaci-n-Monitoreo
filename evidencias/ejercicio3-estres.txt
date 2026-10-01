@@ -1,0 +1,74 @@
+=== ESTRÉS DE MEMORIA (con límite de seguridad) ===
+RAM total: 3.42 GiB | Límite del script: 2600 MB
+>> Abre otra terminal y corre:  watch -n1 free -m
+>> Ctrl+C detiene y libera todo.
+
+Asignados:    40 MB | RAM disp: 2.81 GiB (82.2%) | Swap usado: 0.0 MiB
+Asignados:    80 MB | RAM disp: 2.79 GiB (81.5%) | Swap usado: 0.0 MiB
+Asignados:   120 MB | RAM disp: 2.74 GiB (80.1%) | Swap usado: 0.0 MiB
+Asignados:   160 MB | RAM disp: 2.70 GiB (79.0%) | Swap usado: 0.0 MiB
+Asignados:   200 MB | RAM disp: 2.67 GiB (77.8%) | Swap usado: 0.0 MiB
+Asignados:   240 MB | RAM disp: 2.63 GiB (76.7%) | Swap usado: 0.0 MiB
+Asignados:   280 MB | RAM disp: 2.59 GiB (75.6%) | Swap usado: 0.0 MiB
+Asignados:   320 MB | RAM disp: 2.56 GiB (74.7%) | Swap usado: 0.0 MiB
+Asignados:   360 MB | RAM disp: 2.52 GiB (73.5%) | Swap usado: 0.0 MiB
+Asignados:   400 MB | RAM disp: 2.48 GiB (72.5%) | Swap usado: 0.0 MiB
+Asignados:   440 MB | RAM disp: 2.44 GiB (71.3%) | Swap usado: 0.0 MiB
+Asignados:   480 MB | RAM disp: 2.41 GiB (70.4%) | Swap usado: 0.0 MiB
+Asignados:   520 MB | RAM disp: 2.37 GiB (69.3%) | Swap usado: 0.0 MiB
+Asignados:   560 MB | RAM disp: 2.34 GiB (68.2%) | Swap usado: 0.0 MiB
+Asignados:   600 MB | RAM disp: 2.30 GiB (67.1%) | Swap usado: 0.0 MiB
+Asignados:   640 MB | RAM disp: 2.26 GiB (66.1%) | Swap usado: 0.0 MiB
+Asignados:   680 MB | RAM disp: 2.22 GiB (64.7%) | Swap usado: 0.0 MiB
+Asignados:   720 MB | RAM disp: 2.18 GiB (63.7%) | Swap usado: 0.0 MiB
+Asignados:   760 MB | RAM disp: 2.14 GiB (62.5%) | Swap usado: 0.0 MiB
+Asignados:   800 MB | RAM disp: 2.11 GiB (61.5%) | Swap usado: 0.0 MiB
+Asignados:   840 MB | RAM disp: 2.07 GiB (60.4%) | Swap usado: 0.0 MiB
+Asignados:   880 MB | RAM disp: 2.03 GiB (59.3%) | Swap usado: 0.0 MiB
+Asignados:   920 MB | RAM disp: 1.99 GiB (58.2%) | Swap usado: 0.0 MiB
+Asignados:   960 MB | RAM disp: 1.95 GiB (57.1%) | Swap usado: 0.0 MiB
+Asignados:  1000 MB | RAM disp: 1.92 GiB (56.1%) | Swap usado: 0.0 MiB
+Asignados:  1040 MB | RAM disp: 1.88 GiB (55.0%) | Swap usado: 0.0 MiB
+Asignados:  1080 MB | RAM disp: 1.86 GiB (54.3%) | Swap usado: 0.0 MiB
+Asignados:  1120 MB | RAM disp: 1.82 GiB (53.2%) | Swap usado: 0.0 MiB
+Asignados:  1160 MB | RAM disp: 1.78 GiB (52.1%) | Swap usado: 0.0 MiB
+Asignados:  1200 MB | RAM disp: 1.74 GiB (50.8%) | Swap usado: 0.0 MiB
+Asignados:  1240 MB | RAM disp: 1.70 GiB (49.7%) | Swap usado: 0.0 MiB
+Asignados:  1280 MB | RAM disp: 1.67 GiB (48.6%) | Swap usado: 0.0 MiB
+Asignados:  1320 MB | RAM disp: 1.63 GiB (47.5%) | Swap usado: 0.0 MiB
+Asignados:  1360 MB | RAM disp: 1.59 GiB (46.4%) | Swap usado: 0.0 MiB
+Asignados:  1400 MB | RAM disp: 1.55 GiB (45.3%) | Swap usado: 0.0 MiB
+Asignados:  1440 MB | RAM disp: 1.52 GiB (44.3%) | Swap usado: 0.0 MiB
+Asignados:  1480 MB | RAM disp: 1.48 GiB (43.2%) | Swap usado: 0.0 MiB
+Asignados:  1520 MB | RAM disp: 1.44 GiB (42.0%) | Swap usado: 0.0 MiB
+Asignados:  1560 MB | RAM disp: 1.40 GiB (40.9%) | Swap usado: 0.0 MiB
+Asignados:  1600 MB | RAM disp: 1.37 GiB (39.9%) | Swap usado: 0.0 MiB
+Asignados:  1640 MB | RAM disp: 1.33 GiB (38.8%) | Swap usado: 0.0 MiB
+Asignados:  1680 MB | RAM disp: 1.28 GiB (37.5%) | Swap usado: 0.0 MiB
+Asignados:  1720 MB | RAM disp: 1.24 GiB (36.3%) | Swap usado: 0.0 MiB
+Asignados:  1760 MB | RAM disp: 1.21 GiB (35.3%) | Swap usado: 0.0 MiB
+Asignados:  1800 MB | RAM disp: 1.17 GiB (34.2%) | Swap usado: 0.0 MiB
+Asignados:  1840 MB | RAM disp: 1.13 GiB (33.1%) | Swap usado: 0.0 MiB
+Asignados:  1880 MB | RAM disp: 1.10 GiB (32.0%) | Swap usado: 0.0 MiB
+Asignados:  1920 MB | RAM disp: 1.06 GiB (30.9%) | Swap usado: 0.0 MiB
+Asignados:  1960 MB | RAM disp: 1.02 GiB (29.8%) | Swap usado: 0.0 MiB
+Asignados:  2000 MB | RAM disp: 0.98 GiB (28.7%) | Swap usado: 0.0 MiB
+Asignados:  2040 MB | RAM disp: 0.94 GiB (27.6%) | Swap usado: 0.0 MiB
+Asignados:  2080 MB | RAM disp: 0.91 GiB (26.5%) | Swap usado: 0.0 MiB
+Asignados:  2120 MB | RAM disp: 0.87 GiB (25.4%) | Swap usado: 0.0 MiB
+Asignados:  2160 MB | RAM disp: 0.82 GiB (24.1%) | Swap usado: 0.0 MiB
+Asignados:  2200 MB | RAM disp: 0.79 GiB (23.0%) | Swap usado: 0.0 MiB
+Asignados:  2240 MB | RAM disp: 0.77 GiB (22.5%) | Swap usado: 0.0 MiB
+Asignados:  2280 MB | RAM disp: 0.72 GiB (21.1%) | Swap usado: 0.0 MiB
+Asignados:  2320 MB | RAM disp: 0.69 GiB (20.0%) | Swap usado: 0.0 MiB
+Asignados:  2360 MB | RAM disp: 0.68 GiB (19.8%) | Swap usado: 0.0 MiB
+Asignados:  2400 MB | RAM disp: 0.65 GiB (18.9%) | Swap usado: 0.0 MiB
+Asignados:  2440 MB | RAM disp: 0.61 GiB (17.9%) | Swap usado: 0.0 MiB
+Asignados:  2480 MB | RAM disp: 0.57 GiB (16.7%) | Swap usado: 0.0 MiB
+Asignados:  2520 MB | RAM disp: 0.53 GiB (15.4%) | Swap usado: 0.0 MiB
+Asignados:  2560 MB | RAM disp: 0.49 GiB (14.2%) | Swap usado: 0.0 MiB
+Asignados:  2600 MB | RAM disp: 0.45 GiB (13.0%) | Swap usado: 0.0 MiB
+
+Límite de seguridad alcanzado (2600 MB).
+Swap en uso ahora: 0.0 MiB
+>>> La memoria se mantiene 60 s para que observes el swap en free -m <<<

@@ -1,0 +1,18 @@
+Generando archivo de prueba (~40 MB) en disco...
+
+=== SIMULADOR DE CACHÉ ===
+Archivo: archivo_grande.txt (33.6 MB)
+
+Lectura 1: DISCO        ->   130.123 ms  (33.6 MB)
+Lectura 2: CACHE (RAM)  ->     0.005 ms  (33.6 MB)
+Lectura 3: CACHE (RAM)  ->     0.002 ms  (33.6 MB)
+Lectura 4: CACHE (RAM)  ->     0.001 ms  (33.6 MB)
+Lectura 5: CACHE (RAM)  ->     0.006 ms  (33.6 MB)
+
+--- RESULTADOS ---
+Primer acceso (DISCO, cache miss): 130.123 ms
+Accesos desde CACHÉ (promedio):    0.004 ms
+La caché es ~36714x más rápida que leer de disco.
+
+Así funciona la page cache del kernel Linux y las cachés L1/L2 del CPU:
+evitan pagar el costo del nivel de memoria más lento en cada acceso.

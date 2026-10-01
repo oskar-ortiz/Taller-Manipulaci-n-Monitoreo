@@ -1,0 +1,14 @@
+=== COMPARACIÓN DE PRIORIDADES (scheduler del kernel) ===
+Lanzando simultáneamente: prioridad BAJA vs ALTA...
+
+[PID 395] Prioridad = ALTA (nice=-14) — cálculo pesado en marcha...
+[PID 394] Prioridad = BAJA (nice=19) — cálculo pesado en marcha...
+[PID 395] Prioridad ALTA TERMINÓ en 9.50 s (checksum: 1.14)
+[PID 394] Prioridad BAJA TERMINÓ en 13.59 s (checksum: 1.14)
+
+--- RESULTADOS ---
+1. ALTA     9.50 s <- terminó primero
+2. BAJA     13.59 s 
+
+El proceso de mayor prioridad fue 43.1% más rápido:
+el scheduler le asignó más quantum de CPU. Eso es planificación de procesos.

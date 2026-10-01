@@ -1,0 +1,5 @@
+# archivos generados en tiempo de ejecución (evidencia pesada / volátil)
+ejercicio2-cache/archivo_grande.txt
+ejercicio1-vigilante/alertas.txt
+node_modules/
+*.pkt
